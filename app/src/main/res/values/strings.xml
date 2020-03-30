@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIdemo</string>
+    <string name="textview">display</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="switch1">开关</string>
+    <string name="button3">确定</string>
+    <string name="editText">请输入数值</string>
+    <string name="sadRadio">难过</string>
+    <string name="quiteRadio">平静</string>
+    <string name="checkbox1">数学</string>
+    <string name="checkbox2">语文</string>
+    <string name="checkbox3">英语</string>
+</resources>
